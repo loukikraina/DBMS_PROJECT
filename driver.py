@@ -4,8 +4,6 @@ Created on Thu Apr 29 19:16:55 2021
 
 @author: LOUKIK RAINA
 """
-import os
-os.chdir(os.getcwd())
 from student.student_class import student 
 from teacher.teacher_class import teacher 
 from tkinter import *
